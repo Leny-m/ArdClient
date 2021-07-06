@@ -1,3 +1,9 @@
+2017.07.06
+-- Added snowflake to the PickForageable (Q).
+-- Added Coal (ALT + O) and Dirt (ALT + I) Droppers. Make sure to stay on paved ground when using the dirt dropper. Untested.
+-- Cart Loader/Unloader not working due to dynamic cart stage, might fix later.
+~
+
 2021.07.04
 -- Added experimental storage bot, WIP, temporary key bind is ALT + *, scans all the cupboards in the surrounding area, counts the items and reports to Discord.
 -- Added login logging to keep track of who's using the client.
