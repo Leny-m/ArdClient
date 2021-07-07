@@ -1,5 +1,6 @@
 2017.07.07
 -- Added PartyBot to send distress message via Party game channel.
+-- Added the great hall to the Gatekeeper.
 ~
 
 2017.07.06
