@@ -1,3 +1,7 @@
+2017.07.07
+-- Added PartyBot to send distress message via Party game channel.
+~
+
 2017.07.06
 -- Added snowflake to the PickForageable (Q).
 -- Added Coal (ALT + O) and Dirt (ALT + I) Droppers. Make sure to stay on paved ground when using the dirt dropper. Untested.
