@@ -1,3 +1,7 @@
+2017.07.08
+-- Adjusted the DestroyArea to remove all stumps if any stump kind is selected.
+~
+
 2017.07.07
 -- Added PartyBot to send distress message via Party game channel.
 -- Added the great hall to the Gatekeeper.
