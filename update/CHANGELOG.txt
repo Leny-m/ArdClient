@@ -1,3 +1,7 @@
+2017.07.09
+-- Added ChopBlocks (ALT + L) and MakeBoards (ALT + K) bots.
+~
+
 2017.07.08
 -- Adjusted the DestroyArea to remove all stumps if any stump kind is selected.
 ~
