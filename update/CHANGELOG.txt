@@ -1,3 +1,7 @@
+2017.07.10
+-- Added FillWaterskins (ALT + U) bot.
+~
+
 2017.07.09
 -- Added ChopBlocks (ALT + L) and MakeBoards (ALT + K) bots.
 ~
