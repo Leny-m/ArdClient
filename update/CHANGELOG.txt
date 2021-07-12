@@ -1,26 +1,30 @@
-2017.07.11
+2021.07.12
+-- Added Pelican to the animal proxy aggro.
+~
+
+2021.07.11
 -- Fixed the CartLoaderStockpile and CartUnloaderStockpile bots.
 ~
 
-2017.07.10
+2021.07.10
 -- Added FillWaterskins (ALT + U) bot.
 -- Added CellarDigger (ALT + J) bot.
 ~
 
-2017.07.09
+2021.07.09
 -- Added ChopBlocks (ALT + L) and MakeBoards (ALT + K) bots.
 ~
 
-2017.07.08
+2021.07.08
 -- Adjusted the DestroyArea to remove all stumps if any stump kind is selected.
 ~
 
-2017.07.07
+2021.07.07
 -- Added PartyBot to send distress message via Party game channel.
 -- Added the great hall to the Gatekeeper.
 ~
 
-2017.07.06
+2021.07.06
 -- Added snowflake to the PickForageable (Q).
 -- Added Coal (ALT + O) and Dirt (ALT + I) Droppers. Make sure to stay on paved ground when using the dirt dropper. Untested.
 -- Cart Loader/Unloader not working due to dynamic cart stage, might fix later.
