@@ -1,5 +1,6 @@
 2021.07.12
 -- Added Pelican to the animal proxy aggro.
+-- Added version number to the window title.
 ~
 
 2021.07.11
