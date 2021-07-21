@@ -1,3 +1,7 @@
+2021.07.21
+-- DestroyArea now removes all cavein boulders instead of just the selected type.
+~
+
 2021.07.19
 -- Added log cabin to the Gatekeeper.
 ~
