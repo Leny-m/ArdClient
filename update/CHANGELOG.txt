@@ -1,5 +1,6 @@
 2021.07.24
 -- Cheese bot stage 1.
+-- DreamHarvester now keeps harvesting from nearby dream catchers until turned off or until it tried to harvest all the dream catchers.
 ~
 
 2021.07.22
