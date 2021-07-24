@@ -1,3 +1,7 @@
+2021.07.24
+-- Cheese bot stage 1.
+~
+
 2021.07.22
 -- More improvements for the PathFollower.
 ~
