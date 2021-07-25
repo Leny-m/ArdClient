@@ -1,3 +1,7 @@
+2021.07.25
+-- Added new option to mine boulders using the mine cursor. General > Mine boulders.
+~
+
 2021.07.24
 -- Cheese bot stage 1.
 -- DreamHarvester now keeps harvesting from nearby dream catchers until turned off or until it tried to harvest all the dream catchers.
