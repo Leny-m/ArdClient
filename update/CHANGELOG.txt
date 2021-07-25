@@ -1,3 +1,12 @@
+Details in https://github.com/Cediner/ArdClient/commits/
+2021.07.25
+-- Custom sound volume -> Audio
+-- Scripts on belt
+-- Combat last enemy cooldown sprite -> Combat
+-- Vatsul map location
+-- Small fix (water gl2, combat damage calculator) and something else
+~
+
 2021.07.25
 -- Added new option to mine boulders using the mine cursor. General > Mine boulders.
 ~
@@ -14,6 +23,21 @@
 2021.07.21
 -- DestroyArea now removes all cavein boulders instead of just the selected type.
 -- Even smoother transition between points saved by PathFollower.
+~
+
+Details in https://github.com/Cediner/ArdClient/commits/
+2021.07.25
+-- Custom sound volume -> Audio
+-- Scripts on belt
+-- Combat last enemy cooldown sprite -> Combat
+-- Vatsul map location
+-- Small fix (water gl2, combat damage calculator) and something else
+~
+
+2021.07.21
+-- Grid and hitbox outline rework (need to setting)
+-- Animation cooldown (Video) (Disable animation alternative)
+-- Some small fix
 ~
 
 2021.07.19
@@ -109,7 +133,7 @@ Details in https://github.com/Cediner/ArdClient/commits/Unstable
 
 Details in https://github.com/Cediner/ArdClient/commits/Unstable
 2021.07.19
--- Ingredient fix --
+-- Ingredient fix
 ~
 
 2021.06.26
