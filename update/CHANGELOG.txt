@@ -8,7 +8,7 @@ Details in https://github.com/Cediner/ArdClient/commits/
 ~
 
 2021.07.25
--- Added new option to mine boulders using the mine cursor. General > Mine boulders.
+-- Added new option to mine boulders using mine cursor. General > Mine boulders.
 ~
 
 2021.07.24
