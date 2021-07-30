@@ -1,3 +1,7 @@
+2021.07.31
+-- Added Gem Marker (General settings).
+~
+
 2021.07.30
 -- Cheese bot stage 2.
 -- Added AutoMiner (ALT + V) and MinerAssist (ALT + B).
