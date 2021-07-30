@@ -1,3 +1,7 @@
+2021.07.30
+-- Cheese bot stage 2.
+~
+
 Details in https://github.com/Cediner/ArdClient/commits/
 2021.07.25
 -- Custom sound volume -> Audio
