@@ -1,5 +1,6 @@
 2021.07.30
 -- Cheese bot stage 2.
+-- Added AutoMiner (ALT + V) and MinerAssist (ALT + B).
 ~
 
 Details in https://github.com/Cediner/ArdClient/commits/
