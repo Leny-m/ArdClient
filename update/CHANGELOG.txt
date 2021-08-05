@@ -1,3 +1,8 @@
+2021.08.05
+-- CTRL + G and SHIFT + B back to normal.
+-- SHIFT + TAB changed to AggroClosestAnimal.
+~
+
 2021.08.03
 -- CellarDigger automatically selects "Chop stone" flowermenu.
 ~
