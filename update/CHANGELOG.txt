@@ -1,3 +1,15 @@
+2021.08.07
+-- Added the option to pick oysters, mussels and flotsams to the PathFollower and improved its speed. The picking features are experimental.
+-- MinerAlert now has an option not to count tiles to increase performance if that feature is not needed.
+~
+
+Details in https://github.com/Cediner/ArdClient/commits/
+2021.08.06
+-- Music bot reworked
+-- Damage text saves info
+-- Icons have a gray outline
+~
+
 2021.08.05
 -- CTRL + G and SHIFT + B back to normal.
 -- SHIFT + TAB changed to AggroClosestAnimal.
@@ -44,6 +56,12 @@ Details in https://github.com/Cediner/ArdClient/commits/
 ~
 
 Details in https://github.com/Cediner/ArdClient/commits/
+2021.08.06
+-- Music bot reworked
+-- Damage text saves info
+-- Icons have a gray outline
+~
+
 2021.07.25
 -- Custom sound volume -> Audio
 -- Scripts on belt
