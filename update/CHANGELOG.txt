@@ -1,3 +1,9 @@
+2021.08.09
+-- CTRL + DELETE now stops all running bots.
+-- SHIFT + B butchers small animals, fish and cracks open oysters and drops trash.
+-- Updated list of animals for AggroClosestAnimal (SHIFT + TAB).
+~
+
 2021.08.07
 -- Added the option to pick oysters, mussels and flotsams to the PathFollower and improved its speed. The picking features are experimental.
 -- MinerAlert now has an option not to count tiles to increase performance if that feature is not needed.
