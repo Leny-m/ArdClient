@@ -1,3 +1,7 @@
+2021.08.14
+-- Combat Deck save/rename fix.
+~
+
 2021.08.09
 -- CTRL + DELETE now stops all running bots.
 -- SHIFT + B butchers small animals, fish and cracks open oysters and drops trash.
