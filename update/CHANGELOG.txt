@@ -1,3 +1,7 @@
+2021.08.16
+-- CheeseBotWindow (ALT + NUM 3).
+~
+
 2021.08.14
 -- Combat Deck save/rename fix.
 ~
