@@ -74,6 +74,10 @@ Details in https://github.com/Cediner/ArdClient/commits/
 ~
 
 Details in https://github.com/Cediner/ArdClient/commits/
+2021.09.25
+> Vanilla changes
+~
+
 2021.09.07
 > *empty*
 > Chip boulders while mine cursor (auto) (Modification) (on by default)
